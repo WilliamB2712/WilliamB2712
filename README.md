@@ -20,7 +20,7 @@ Hands-on security analyst focused on Linux security analysis, service exposure, 
 
 - 🔐 **Linux Security Analysis**  
   Hands-on analysis of service exposure, sockets, and text processing.  
-  👉 https://github.com/WilliamB2712/WilliamB2712
+  👉 https://github.com/WilliamB2712?tab=repositories
 
 *(More repositories coming as I expand into detection, incident response, and threat analysis.)*
 
