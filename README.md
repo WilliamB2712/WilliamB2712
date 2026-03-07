@@ -1,40 +1,45 @@
 # William Barquero
 
-**Security Analyst (Blue Team / SOC Focus)**
+**Security Analyst (Blue Team / SOC / DFIR Focus)**
 
-Hands-on security analyst focused on Linux security analysis, service exposure, log correlation, and defensive investigation using CLI-based workflows.
+Hands-on security analyst focused on Windows and Linux artifact analysis, service exposure, log correlation, persistence validation, and defensive investigation using practical, evidence-driven workflows.
 
 ---
 
-## 🔍 What I Work On
+## 🔎 What I Work On
 
-- Linux security analysis and system inspection
+- Windows and Linux security analysis
+- Persistence and system artifact investigation
 - Runtime service and socket exposure analysis
-- Log filtering and data normalization
-- Defensive investigation and validation
-- Command-line driven analysis (no black-box tools)
+- Log filtering, normalization, and correlation
+- Defensive validation and false-positive reduction
+- Command-line driven analysis and triage
 
 ---
 
-## 📂 Featured Projects
+## 📁 Featured Projects
 
-## - 🔐 **Linux Security Analysis**
-hands-on Linux security analysis exercises focused on text processing, filtering, permissions, and defensive reasoning using standard CLI tools.
+### 🔐 Linux Security Analysis
+Hands-on Linux security analysis exercises focused on text processing, permissions, service review, and defensive reasoning using standard CLI tools.
 
-   👉 [https://github.com/WilliamB2712?tab=repositories](https://github.com/WilliamB2712/linux-security-analysis)
+👉 [View repositories](https://github.com/WilliamB2712?tab=repositories)
 
-## - 🔐 **Network and Service Exposure Analysis**
-  Hands-on analysis of service exposure, sockets, and text processing.
+### 🌐 Network and Service Exposure Analysis
+Hands-on analysis of service exposure, sockets, port visibility, and runtime behavior validation.
 
-  👉 [[https://github.com/WilliamB2712?tab=repositories](https://github.com/WilliamB2712/network-and-service-exposure)]
+👉 [View repositories](https://github.com/WilliamB2712?tab=repositories)
 
-*(More repositories coming as I expand into detection, incident response, and threat analysis.)*
+### 🧪 Windows Persistence Investigation – ZLMU / SoftLanding Case Study
+Artifact-based DFIR-style investigation of suspicious Windows scheduled-task persistence following ZLMU installation.  
+This case study includes Task XML analysis, TaskCache correlation, filesystem timeline reconstruction, antivirus findings, Discord-related secondary artifacts, and Prefetch-based execution review.
+
+👉 [View case study](https://github.com/WilliamB2712/windows-persistence-investigation-zlmu-softlanding-/tree/main)
 
 ---
 
 ## 🧠 Approach
 
-I focus on **understanding system behavior**, validating assumptions, and avoiding false positives by analyzing runtime state rather than relying solely on static configuration.
+I focus on understanding **system behavior through artifacts**, validating assumptions, and separating confirmed findings from likely hypotheses and unknowns. My work emphasizes evidence discipline, timeline reconstruction, and practical investigation over dramatic conclusions.
 
 ---
 
@@ -42,11 +47,11 @@ I focus on **understanding system behavior**, validating assumptions, and avoidi
 
 - CompTIA Security+
 - HTB Certified Junior Cybersecurity Analyst (CJCA) *(in progress)*
-- CySA+ *(in progress on the LEAD University Cybersecurity program)*
+- CySA+ *(in progress through the LEAD University Cybersecurity program)*
 
 ---
 
-## 📫 Contact
+## 📬 Contact
 
-- LinkedIn: <https://www.linkedin.com/in/williambarqueroj>
-- Email: <William27.contact@gmail.com>
+- LinkedIn: https://www.linkedin.com/in/williambarqueroj
+- Email: William27.contact@gmail.com
